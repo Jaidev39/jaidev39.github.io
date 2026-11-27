@@ -28,3 +28,5 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://jaidev39.github.io/Jaidev39/sitemap.xml
